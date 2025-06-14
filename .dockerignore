@@ -1,0 +1,12 @@
+# Ignore Git and GitHub specific files
+.git
+.github
+
+# Ignore Python cache and virtual environment
+__pycache__/
+*.pyc
+.venv
+
+# Ignore local config files
+.flake8
+requirements-dev.txt

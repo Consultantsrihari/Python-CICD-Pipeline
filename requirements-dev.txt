@@ -1,0 +1,6 @@
+# Include production dependencies
+-r requirements.txt
+
+# Testing and linting tools
+pytest==7.2.1
+flake8==6.0.0
